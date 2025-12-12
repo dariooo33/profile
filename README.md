@@ -67,6 +67,7 @@
                 alt="readme active graph" />
     </div>
     <hr with="100%">
+<!--
     <hr width="100%">
         <div>
         <pre >
@@ -91,6 +92,7 @@
         </pre>
         </div>
     <hr width="100%">
+-->
     <hr width="100%">
 </body>
 </html>
